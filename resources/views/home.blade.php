@@ -8,7 +8,7 @@
 </nav>
 <section class="container py-5">
  <p>HELLO, I'M</p>
- <h1>{{ $profie->name ?? 'Cewil' }}</h1>
+ <h1>{{ $profie->name ?? 'Sunaryo' }}</h1>
  <h2>{{ $profie->headline ?? 'Web Developer' }}</h2>
  <p>{{ $profie->bio ?? 'Selamat datang di website portfolio saya.' }}</p>
 </section>
